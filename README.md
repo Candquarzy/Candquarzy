@@ -2,7 +2,7 @@
 
 #### 這裏來切換你的語言
 
-> 这里来切换你的语言
+> - 这里来切换你的语言
 > - Here you can switch your language
 > - ここで言語を切り替えることができます
 
@@ -31,10 +31,6 @@
 
 **咱以前是學影視後期，平面設計什麽的……所以説……**
 
-<p align = "center">[![My Skills](https://skillicons.dev/icons?i=ps,pr,ae,au,ai&theme=light)](https://skillicons.dev)</p>
-
------
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ps,pr,ae,au,ai" />
@@ -46,16 +42,22 @@
 
 
 **編程語言是最近才開始學的……比較少**
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,ts&theme=light)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts" />
+  </a>
+</p>
 
 -----
 
 ### 學習規劃
 
 **未來會學習一下這些吧……~~應該？~~**
-
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,androidstudio&theme=light)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,python,androidstudio" />
+  </a>
+</p>
 
 -----
 
@@ -66,8 +68,11 @@
 安卓設備：📱 Redmi K50 HyperOS2(A15)
 
 還會使用這些：
-
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,linux,docker&theme=light)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,linux,docker" />
+  </a>
+</p>
 
 ------
 
