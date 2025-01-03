@@ -18,6 +18,10 @@
 
 希望自己可以變得可愛~好像也沒有什麽別的可以説的了……
 
+### How to reach me
+- **Telegram**: [Candy](https://t.me/Candquarzy_QwQ)
+
+
 ------
 
 ### 語言
