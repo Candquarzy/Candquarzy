@@ -12,17 +12,17 @@
 
 ## 🍭About Me
 
-Hello~you can call me Candy,Of course, my commonly used names include **Candquarzy** and **CandyQuartz**.
+Hello~ you can call me Candy, of course, my commonly used names include **Candquarzy** and **CandyQuartz**.
 
-Thanks to my good friend **Fairydewstz** for giving me this name.Here is his[Personal Homepage](https://github.com/Lintha437) 
+Thanks to my good friend **Fairydewstz** for giving me this name. Here is his [Personal Homepage](https://github.com/Lintha437) 
 
-I hope I can become cute~ ~~Though my mental state might not be very stable (x~~ There doesn’t seem to be much else to say…
+I hope I can become cute~ ~~Though my mental state might not be very stable (x~~ There doesn't seem to be much else to say…
 
 ------
 
 ## 🗺️Language 
 
-Well~ I am a native Chinese speaker, and you can communicate with me in Chinese. I am currently learning English and Japanese...
+Well~ I am a Chinese native speaker, and you can communicate with me in Chinese. I am currently learning English and Japanese...
 
 > Traditional Chinese >= Simplified Chinese > English > Japanese
 
