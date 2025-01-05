@@ -24,7 +24,7 @@ I hope I can become cute~ ~~Though my mental state might not be very stable (x~~
 
 Well~ I am a Chinese native speaker, and you can communicate with me in Chinese. I am currently learning English and Japanese...
 
-> Traditional Chinese >= Simplified Chinese > English > Japanese
+> Chinese Traditional >= Chinese Simplified > English > Japanese
 
 -----
 ## 😱What can i do?
@@ -80,4 +80,4 @@ I also use these：
 
 -----
 
-**This English version is from ChatGPT**
+**This English version is from [ChatGPT](https://chat.openai.com/) and my friend [Fairydewstz](https://github.com/Lintha437)**
