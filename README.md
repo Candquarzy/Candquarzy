@@ -80,7 +80,9 @@
 
 ------
 
-<div algin="center">
+<br>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Candquarzy&show_icons=true&theme=omni" height="200px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Candquarzy&layout=donut&theme=omni" height="200px">
 </div>
