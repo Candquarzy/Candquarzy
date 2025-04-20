@@ -44,7 +44,7 @@
 **編程語言是最近才開始學的……比較少**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,java" />
   </a>
 </p>
 
@@ -55,7 +55,7 @@
 **未來會學習一下這些吧……~~應該？~~**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,python,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=kotlin,python,androidstudio,rust" />
   </a>
 </p>
 
@@ -70,7 +70,7 @@
 還會使用這些：
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,linux,docker" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,linux,docker,idea" />
   </a>
 </p>
 

@@ -44,7 +44,7 @@ I can use all these software tools ~~and I even have an ID, but no icon yet—I'
 **Programming languages are something I only started learning recently... so there aren't many.**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,java" />
   </a>
 </p>
 
@@ -55,7 +55,7 @@ I can use all these software tools ~~and I even have an ID, but no icon yet—I'
 **I will probably learn these in the future... ~~Maybe?~~**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,python,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=kotlin,python,androidstudio,rust" />
   </a>
 </p>
 
@@ -70,7 +70,7 @@ My Phone：📱 Redmi K50 HyperOS2(A15)
 I also use these：
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,linux,docker" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,linux,docker,idea" />
   </a>
 </p>
 
