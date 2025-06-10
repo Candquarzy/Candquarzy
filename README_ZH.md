@@ -41,10 +41,10 @@
 
 
 
-**编程语言是最近才开始学的……比较少**
+**编程语言…… ~~脑子学会了 会不会写…就不好说了(~~**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,java" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,java,kotlin" />
   </a>
 </p>
 
@@ -55,7 +55,7 @@
 **未来会学习一下这些吧……~~应该？~~**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,python,androidstudio,rust" />
+    <img src="https://skillicons.dev/icons?i=python,rust,go" />
   </a>
 </p>
 
@@ -70,7 +70,7 @@
 还会使用这些：
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,linux,docker,idea" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,linux,docker,idea,androidstudio" />
   </a>
 </p>
 
