@@ -49,6 +49,8 @@ I can use all these software tools ~~and I even have an ID, but no icon yet—I'
   </a>
 </p>
 
+Forgot after learning~
+
 -----
 
 ## 🗓**Learning Plan**
@@ -63,13 +65,14 @@ I can use all these software tools ~~and I even have an ID, but no icon yet—I'
 
 -----
 
-## 🖥Tools and Systems Used?
+## 📲Tools and Systems Used?
 
-Daily Development：🖥 windows 11 23H2
+Daily Development：💻 windows 11 24H2
 
-My Phone：📱 Redmi K50 HyperOS2(A15)
+My Phone：📱 Redmi K50 [HyperOS2 (A15)]
 
 I also use these：
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,linux,docker,idea,androidstudio" />
@@ -88,8 +91,6 @@ I also use these：
   <img src="https://github-readme-stats.vercel.app/api?username=Candquarzy&show_icons=true&theme=omni" height="200px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Candquarzy&layout=donut&theme=omni" height="200px">
 </div>
-
-<br>
 
 ------
 

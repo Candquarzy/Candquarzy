@@ -27,6 +27,7 @@
 > 繁体中文 >= 简体中文 > 英文 > 日语
 
 -----
+
 ## 😱你会些什么？
 
 **咱以前是学影视后期，平面设计什么的……所以说……**
@@ -48,11 +49,14 @@
   </a>
 </p>
 
+学完就忘~
+
 -----
 
 ## 🗓学习规划
 
 **未来会学习一下这些吧……~~应该？~~**
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,rust,go" />
@@ -61,11 +65,11 @@
 
 -----
 
-## 🖥用的工具和系统？
+## 📲用的工具和系统？
 
-日常开发：🖥 windows 11 23H2
+日常开发：💻 windows 11 24H2
 
-安卓设备：📱 Redmi K50 HyperOS2(A15)
+安卓设备：📱 Redmi K50 [HyperOS2 (A15)]
 
 还会使用这些：
 <p align="center">

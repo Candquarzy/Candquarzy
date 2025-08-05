@@ -48,6 +48,8 @@
   </a>
 </p>
 
+學完就忘~
+
 -----
 
 ## 🗓學習規劃
@@ -61,13 +63,14 @@
 
 -----
 
-## 🖥用的工具和系統？
+## 📲用的工具和系統？
 
-日常開發：🖥 windows 11 23H2
+日常開發：💻 windows 11 24H2
 
-安卓設備：📱 Redmi K50 HyperOS2(A15)
+智慧型手機：📱 Redmi K50 [HyperOS2 (A15)]
 
 還會使用這些：
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,linux,docker,idea,androidstudio" />
