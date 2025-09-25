@@ -44,7 +44,7 @@
 **編程語言……~~腦子學會了 會不會寫呢…就不好説了（~~**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,java,kotlin" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,java,kotlin,python" />
   </a>
 </p>
 
@@ -57,7 +57,7 @@
 **未來會學習一下這些吧……~~應該？~~**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,rust,go" />
+    <img src="https://skillicons.dev/icons?i=rust,go" />
   </a>
 </p>
 
