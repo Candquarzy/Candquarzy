@@ -1,6 +1,4 @@
-<div align = "center">
-  <h1> 你好哦~這裏是Candy🍥 <h1>
-</div>
+# 你好哦~這裏是Candy🍥
 
 當前語言為 **繁體中文** | [切换语言至 **简体中文**](./README_ZH.md) | [Switch To **English**](./README_EN.md) | [**日本語** に切り替える](./README_JP.md) 
 
@@ -10,7 +8,7 @@
 
 你好呀，你可以叫我Candy，當然咱的常用名有**Candquarzy**,**CandyQuartz**等。如果你是漢語使用者，你也可以叫我**英糖**
 
-感謝我的好朋友**Fairydewstz**爲我起的名字。這裏是他的[個人主頁](https://github.com/Lintha437) ~(一位真正的大佬)~
+感謝我的好朋友 [**Fairydewstz**](https://github.com/Lintha437) 爲我起的名字 ~(一位真正的大佬)~
 
 希望自己可以變得可愛~ ~~精神狀態可能不太正常(x~~ 好像也沒有什麽別的可以説的了……
 
@@ -34,8 +32,6 @@
 </p>
 
 這些軟件都會使用的說 ~~還有個ID，但是沒有圖標 之後補（~~
-
-
 
 **編程語言……~~腦子學會了 會不會寫呢…就不好説了（~~**
 <p align="center">
