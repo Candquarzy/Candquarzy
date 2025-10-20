@@ -31,9 +31,9 @@
   </a>
 </p>
 
-這些軟件都會使用的說 ~~還有個ID, 但是沒有圖標 之後補( ~~
+這些軟件都會使用的說 ~還有個ID, 但是沒有圖標 之後補(~
 
-**編程語言…… ~腦子學會了 會不會寫呢…就不好説了（~ **
+**編程語言…… ~腦子學會了 會不會寫呢…就不好説了（~**
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -45,7 +45,7 @@
 
 ## 🗓學習規劃
 
-**未來會學習一下這些吧…… ~應該?~ **
+**未來會學習一下這些吧…… ~應該?~**
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,go" />
