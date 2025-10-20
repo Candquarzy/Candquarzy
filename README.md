@@ -1,10 +1,17 @@
 # 你好哦~這裏是Candy🍥
 
-當前語言為 **繁體中文** | [切换语言至 **简体中文**](./README_ZH.md) | [Switch To **English**](./README_EN.md) | [**日本語** に切り替える](./README_JP.md) 
+<p align = "center">
+  <p> 當前語言為 <b>繁體中文 </b> | 
+   切换语言至 <a href = "./README_ZH.md" ><b>简体中文</b></a> | 
+   Switch To <a href = "./README_EN.md" ><b>English</b> </a> | 
+  <a href = "./README_ZH.md" ><b> 日本語</b></a> に切り替える 
+</p>
 
 ------
 
-## 🍭個人介紹
+<p align = "center">
+  <h1> 🍭個人介紹 <h1>
+</p>
 
 你好呀，你可以叫我Candy，當然咱的常用名有**Candquarzy**,**CandyQuartz**等。如果你是漢語使用者，你也可以叫我**英糖**
 
@@ -14,16 +21,23 @@
 
 ------
 
-## 🗺️語言
+<p align = "center">
+  <h1> 🗺️語言 <h1>
+</p>
 
 嗯~咱的話是中文母語者，你可以和我通過中文來進行溝通。英文和日語在學……
 
-> 繁體中文 >= 簡體中文 > 英文 > 日語
+<p align = "center">
+ <p> 繁體中文 >= 簡體中文 > 英文 > 日語</p>
+</p>
 
 -----
-## 😱你會些什麽？
 
-**咱以前是學影視後期，平面設計什麽的……所以説……**
+<p align = "center">
+  <h1> 😱你會些什麽？ <h1>
+</p>
+
+咱以前是學影視後期，平面設計什麽的……所以説……
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -44,7 +58,9 @@
 
 -----
 
-## 🗓學習規劃
+<p align = "center">
+  <h1> 🗓學習規劃 <h1>
+</p>
 
 **未來會學習一下這些吧……~~應該？~~**
 <p align="center">
@@ -55,7 +71,9 @@
 
 -----
 
-## 📲用的工具和系統？
+<div align = "center">
+  <h1> 📲用的工具和系統？ <h1>
+</div>
 
 日常開發：💻 windows 11 24H2
 
