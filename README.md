@@ -11,9 +11,9 @@
 
 你好呀, 你可以叫我 Candy, 當然咱的常用名有 **Candquarzy**, **CandyQuartz** 等. 如果你是漢語使用者, 你也可以叫我 **英糖**
 
-感謝我的好朋友 [**Fairydewstz**](https://github.com/Lintha437) 爲我起的名字 ~~(一位真正的大佬)~~
+感謝我的好朋友 [**Fairydewstz**](https://github.com/Lintha437) 爲我起的名字 ~(一位真正的大佬)~
 
-希望自己可以變得可愛~ ~~精神狀態可能不太正常(x ~~ 好像也沒有什麽別的可以説的了……
+希望自己可以變得可愛~ ~精神狀態可能不太正常(x~ 好像也沒有什麽別的可以説的了……
 
 ## 🗺️語言
 
@@ -33,7 +33,7 @@
 
 這些軟件都會使用的說 ~~還有個ID, 但是沒有圖標 之後補( ~~
 
-**編程語言……~~腦子學會了 會不會寫呢…就不好説了（~~**
+**編程語言…… ~腦子學會了 會不會寫呢…就不好説了（~ **
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -45,7 +45,7 @@
 
 ## 🗓學習規劃
 
-**未來會學習一下這些吧…… ~~應該？~~**
+**未來會學習一下這些吧…… ~應該?~ **
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,go" />
