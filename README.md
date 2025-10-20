@@ -1,12 +1,8 @@
-# 你好哦~這裏是Candy🍥
+<div align = "center">
+  <h1> 你好哦~這裏是Candy🍥 <h1>
+</div>
 
-**這裏來切換你的語言**
-
-> - 这里来切换你的语言
-> - Here you can switch your language
-> - ここで言語を切り替えることができます
-
-正體中文 | [简体中文](./README_ZH.md) | [English](./README_EN.md) | [日本語](./README_JP.md) 
+當前語言為 **繁體中文** | [切换语言至 **简体中文**](./README_ZH.md) | [Switch To **English**](./README_EN.md) | [**日本語** に切り替える](./README_JP.md) 
 
 ------
 
