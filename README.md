@@ -2,30 +2,44 @@
   <h1> 你好哦~這裏是Candy🍥 <h1>
 </div>
 
-當前語言為 **繁體中文** | [切换语言至 **简体中文**](./README_ZH.md) | [Switch To **English**](./README_EN.md) | [**日本語** に切り替える](./README_JP.md) 
+<div align = "center">
+  <p> 當前語言為 <b>繁體中文</b> | 
+  <a href = "./README_ZH.md" >切换语言至 <b>简体中文</b> </a> | 
+  <a href = "./README_EN.md" >Switch To <b>English</b> </a> | 
+  <a href = "./README_ZH.md" ><b>日本語</b> に切り替える </a>
+</div>
 
 ------
 
-## 🍭個人介紹
+<div align = "center">
+  <h1> 🍭個人介紹 <h1>
+</div>
 
 你好呀，你可以叫我Candy，當然咱的常用名有**Candquarzy**,**CandyQuartz**等。如果你是漢語使用者，你也可以叫我**英糖**
 
-感謝我的好朋友**Fairydewstz**爲我起的名字。這裏是他的[個人主頁](https://github.com/Lintha437) ~(一位真正的大佬)~
+感謝我的好朋友[**Fairydewstz**](https://github.com/Lintha437)爲我起的名字 ~(一位真正的大佬)~
 
 希望自己可以變得可愛~ ~~精神狀態可能不太正常(x~~ 好像也沒有什麽別的可以説的了……
 
 ------
 
-## 🗺️語言
+<div align = "center">
+  <h1> 🗺️語言 <h1>
+</div>
 
 嗯~咱的話是中文母語者，你可以和我通過中文來進行溝通。英文和日語在學……
 
-> 繁體中文 >= 簡體中文 > 英文 > 日語
+<div align = "center">
+ <p> 繁體中文 >= 簡體中文 > 英文 > 日語</p>
+</div>
 
 -----
-## 😱你會些什麽？
 
-**咱以前是學影視後期，平面設計什麽的……所以説……**
+<div align = "center">
+  <h1> 😱你會些什麽？ <h1>
+</div>
+
+咱以前是學影視後期，平面設計什麽的……所以説……
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -48,7 +62,9 @@
 
 -----
 
-## 🗓學習規劃
+<div align = "center">
+  <h1> 🗓學習規劃 <h1>
+</div>
 
 **未來會學習一下這些吧……~~應該？~~**
 <p align="center">
@@ -59,7 +75,9 @@
 
 -----
 
-## 📲用的工具和系統？
+<div align = "center">
+  <h1> 📲用的工具和系統？ <h1>
+</div>
 
 日常開發：💻 windows 11 24H2
 
