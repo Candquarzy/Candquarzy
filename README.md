@@ -1,11 +1,11 @@
 # 你好哦~這裏是Candy🍥
 
-<div align = "center">
-  <div> 當前語言為 <b>繁體中文 </b> | 
-   切换语言至 <a href = "./README_ZH.md" ><b>简体中文</b> </a> | 
-   Switch To <a href = "./README_EN.md" ><b>English</b> </a> | 
+<p align = "center">
+  當前語言為 <b>繁體中文 </b> | 
+  切换语言至 <a href = "./README_ZH.md" ><b>简体中文</b> </a> | 
+  Switch To <a href = "./README_EN.md" ><b>English</b> </a> | 
   <a href = "./README_ZH.md" ><b> 日本語</b></a> に切り替える 
-</div>
+</p>
 
 
 ## 🍭個人介紹
