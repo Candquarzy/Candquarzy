@@ -57,7 +57,7 @@
 
 日常开发：💻 windows 11 24H2
 
-安卓设备：📱 Redmi K50 [HyperOS2 (A15)]
+安卓设备：📱 Redmi K50 HyperOS2 (A15)
 
 还会使用这些：
 

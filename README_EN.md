@@ -57,7 +57,7 @@ Forgot after learning~
 
 Daily Development：💻 windows 11 24H2
 
-My Phone：📱 Redmi K50 [HyperOS2 (A15)]
+My Phone：📱 Redmi K50 HyperOS2 (A15)
 
 I also use these：
 
