@@ -4,7 +4,7 @@
   當前語言為 <b>简体中文</b> | 
   切換語言至 <a href = "./README.md" ><b>繁體中文</b></a> | 
   Switch To <a href = "./README_EN.md" ><b>English</b></a> | 
-  <a href = "./README_ZH.md" ><b>日本語</b></a> に切り替える 
+  <a href = "./README_JP.md" ><b>日本語</b></a> に切り替える 
 </p>
 
 ## 🍭个人介绍
@@ -60,6 +60,7 @@
 安卓设备：📱 Redmi K50 [HyperOS2 (A15)]
 
 还会使用这些：
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,linux,docker,idea,androidstudio" />

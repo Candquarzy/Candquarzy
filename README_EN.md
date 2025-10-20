@@ -4,7 +4,7 @@
   Current language is <b>English</b> | 
   切換語言至 <a href = "./README.md" ><b>繁體中文</b></a> | 
   切换语言至 <a href = "./README_ZH.md" ><b>简体中文</b></a> | 
-  <a href = "./README_ZH.md" ><b>日本語</b></a> に切り替える 
+  <a href = "./README_JP.md" ><b>日本語</b></a> に切り替える 
 </p>
 
 ## 🍭About Me
@@ -15,7 +15,7 @@ Thanks to my good friend [**Fairydewstz**](https://github.com/Lintha437) for giv
 
 I hope I can become cute~ ~~Though my mental state might not be very stable (x~~ There doesn't seem to be much else to say…
 
-## 🗺️Language 
+## 🗺️Language
 
 Well~ I am a Chinese native speaker, and you can communicate with me in Chinese. I am currently learning English and Japanese...
 
