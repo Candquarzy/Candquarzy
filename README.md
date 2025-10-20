@@ -1,8 +1,8 @@
 # 你好哦~這裏是Candy🍥
 
 <p align = "center">
-  當前語言為 <b>繁體中文 </b> | 
-  切换语言至 <a href = "./README_ZH.md" ><b>简体中文 </b></a> | 
+  當前語言為 <b>繁體中文</b> | 
+  切换语言至 <a href = "./README_ZH.md" ><b>简体中文</b></a> | 
   Switch To <a href = "./README_EN.md" ><b>English</b></a> | 
   <a href = "./README_ZH.md" ><b>日本語</b></a> に切り替える 
 </p>
@@ -34,6 +34,7 @@
 這些軟件都會使用的說 ~~還有個ID, 但是沒有圖標 之後補( ~~
 
 **編程語言……~~腦子學會了 會不會寫呢…就不好説了（~~**
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,java,kotlin,python" />

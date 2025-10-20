@@ -1,24 +1,19 @@
 # Hello~This is Candy
 
-**Here you can switch your language**
-
-> - 這裏來切換你的語言
-> - 这里来切换你的语言
-> - ここで言語を切り替えることができます
-
-[正體中文](./README.md) | [简体中文](./README_ZH.md) | English | [日本語](./README_JP.md)
-
-------
+<p align = "center">
+  Current language is <b>English</b> | 
+  切換語言至 <a href = "./README.md" ><b>繁體中文</b></a> | 
+  切换语言至 <a href = "./README_ZH.md" ><b>简体中文</b></a> | 
+  <a href = "./README_ZH.md" ><b>日本語</b></a> に切り替える 
+</p>
 
 ## 🍭About Me
 
 Hello~ you can call me Candy, of course, my commonly used names include **Candquarzy** and **CandyQuartz**.
 
-Thanks to my good friend **Fairydewstz** for giving me this name. Here is his [Personal Homepage](https://github.com/Lintha437) 
+Thanks to my good friend [**Fairydewstz**](https://github.com/Lintha437) for giving me this name.
 
 I hope I can become cute~ ~~Though my mental state might not be very stable (x~~ There doesn't seem to be much else to say…
-
-------
 
 ## 🗺️Language 
 
@@ -26,7 +21,6 @@ Well~ I am a Chinese native speaker, and you can communicate with me in Chinese.
 
 > Chinese Traditional >= Chinese Simplified > English > Japanese
 
------
 ## 😱What can i do?
 
 **I used to study film and television post-production, graphic design, and such... so, you know...**
@@ -39,8 +33,6 @@ Well~ I am a Chinese native speaker, and you can communicate with me in Chinese.
 
 I can use all these software tools ~~and I even have an ID, but no icon yet—I'll add it later (~~
 
-
-
 **Programming languages ~~The brain has learned, but whether it can write code... idk(~~**
 
 <p align="center">
@@ -51,8 +43,6 @@ I can use all these software tools ~~and I even have an ID, but no icon yet—I'
 
 Forgot after learning~
 
------
-
 ## 🗓**Learning Plan**
 
 **I will probably learn these in the future... ~~Maybe?~~**
@@ -62,8 +52,6 @@ Forgot after learning~
     <img src="https://skillicons.dev/icons?i=rust,go" />
   </a>
 </p>
-
------
 
 ## 📲Tools and Systems Used?
 
@@ -79,13 +67,7 @@ I also use these：
   </a>
 </p>
 
-------
-
 **I'm a useless person~ so there's nothing interesting to show. I'll add more in the future if I think of anything~**
-
-------
-
-<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Candquarzy&show_icons=true&theme=omni" height="200px">
