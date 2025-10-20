@@ -1,5 +1,5 @@
 <p align = "center">
-  <h1> 你好哦~這裏是Candy🍥 <h1>
+  <h1> 你好哦~這裏是Candy🍥 </h1>
 </p>
 
 <p align = "center">
