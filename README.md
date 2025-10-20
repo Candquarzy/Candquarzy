@@ -1,17 +1,14 @@
-<div align = "center">
-  <h1> 你好哦~這裏是Candy🍥 </h1>
-</div>
+# 你好哦~這裏是Candy🍥
 
 <div align = "center">
   <div> 當前語言為 <b>繁體中文 </b> | 
-   切换语言至 <a href = "./README_ZH.md" ><b>简体中文</b></a> | 
+   切换语言至 <a href = "./README_ZH.md" ><b>简体中文</b> </a> | 
    Switch To <a href = "./README_EN.md" ><b>English</b> </a> | 
   <a href = "./README_ZH.md" ><b> 日本語</b></a> に切り替える 
 </div>
 
-<div align = "center">
-  <h1> 🍭個人介紹 </h1>
-</div>
+
+## 🍭個人介紹
 
 你好呀，你可以叫我Candy，當然咱的常用名有**Candquarzy**,**CandyQuartz**等。如果你是漢語使用者，你也可以叫我**英糖**
 
