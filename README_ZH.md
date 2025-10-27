@@ -13,11 +13,13 @@
 
 感谢我的好朋友 [**Fairydewstz**](https://github.com/Lintha437) 为我起的名字. ~~(一位真正的大佬)~~
 
+喜欢学习, 目前的第一爱好是计算机, 第二爱好可能是...天文? 感觉宇宙什么的好有意思的说
+
 希望自己可以变得可爱~ ~~精神状态可能不太正常(x~~ 好像也没有什么别的可以说的了……
 
 ## 🗺️语言
 
-嗯~咱的话是中文母语者, 你可以和我通过中文来进行沟通. 英文和日语在学……
+嗯~咱的话是中文母语者, 你可以和我通过中文来进行沟通. 目前英文和日语在学……
 
 > 繁体中文 >= 简体中文 > 英文 > 日语
 
@@ -55,9 +57,9 @@
 
 ## 📲用的工具和系统？
 
-日常开发：💻 windows 11 24H2
+日常开发：💻 windows 11 25H2
 
-安卓设备：📱 Redmi K50 HyperOS2 (A15)
+安卓设备：📱 Redmi K50 HyperOS 3 (A16)
 
 还会使用这些：
 
@@ -72,4 +74,16 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Candquarzy&show_icons=true&theme=omni" height="200px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Candquarzy&layout=donut&theme=omni" height="200px">
+</div>
+
+---
+
+<br>
+
+<div align = "center">
+ <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Candquarzy&area=true&line=5BCEFA&point=fd81ac&radius=16"></a>
+</div>
+
+<div align = "center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=7000&pause=1500&color=FD81ACAC&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Never+surrender+to+anxiety+and+depression%2C;+We+will+eventually+have+our+place+in+this+world." alt="Typing SVG" /></a>
 </div>

@@ -13,11 +13,13 @@ Hello~ you can call me Candy, of course, my commonly used names include **Candqu
 
 Thanks to my good friend [**Fairydewstz**](https://github.com/Lintha437) for giving me this name.
 
+I enjoy learning, and my first hobby is computers. My second hobby might be… astronomy? I find the universe really fascinating.
+
 I hope I can become cute~ ~~Though my mental state might not be very stable (x~~ There doesn't seem to be much else to say…
 
 ## 🗺️Language
 
-Well~ I am a Chinese native speaker, and you can communicate with me in Chinese. I am currently learning English and Japanese...
+Well~ I am a Chinese native speaker, and you can communicate with me in Chinese. I am currently learning English and Japanese now...
 
 > Chinese Traditional >= Chinese Simplified > English > Japanese
 
@@ -55,9 +57,9 @@ Forgot after learning~
 
 ## 📲Tools and Systems Used?
 
-Daily Development：💻 windows 11 24H2
+Daily Development：💻 windows 11 25H2
 
-My Phone：📱 Redmi K50 HyperOS2 (A15)
+My Phone：📱 Redmi K50 HyperOS 3 (A16)
 
 I also use these：
 
@@ -74,6 +76,24 @@ I also use these：
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Candquarzy&layout=donut&theme=omni" height="200px">
 </div>
 
-------
+---
 
-**This English version is from [ChatGPT](https://chat.openai.com/) and my friend [Fairydewstz](https://github.com/Lintha437)**
+<br>
+
+<div align = "center">
+ <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Candquarzy&area=true&line=5BCEFA&point=fd81ac&radius=16"></a>
+</div>
+
+<div align = "center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=7000&pause=1500&color=FD81ACAC&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Never+surrender+to+anxiety+and+depression%2C;+We+will+eventually+have+our+place+in+this+world." alt="Typing SVG" /></a>
+</div>
+
+---
+
+<div align = "center">
+  <b>This English version is from 
+    <a href = "chat.openai.com"> ChatGPT </a>
+     and my friend
+    <a href = "github.com/Lintha437"> Fairydewst </a>
+  </b>
+</div>
