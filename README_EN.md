@@ -71,11 +71,6 @@ I also use these：
 
 **I'm a useless person~ so there's nothing interesting to show. I'll add more in the future if I think of anything~**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Candquarzy&show_icons=true&theme=omni" height="200px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Candquarzy&layout=donut&theme=omni" height="200px">
-</div>
-
 ---
 
 <br>
