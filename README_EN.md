@@ -69,15 +69,9 @@ I also use these：
   </a>
 </p>
 
-**I'm a useless person~ so there's nothing interesting to show. I'll add more in the future if I think of anything~**
-
 ---
 
 <br>
-
-<div align = "center">
- <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Candquarzy&area=true&line=5BCEFA&point=fd81ac&radius=16"></a>
-</div>
 
 <div align = "center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=7000&pause=1500&color=FD81ACAC&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Never+surrender+to+anxiety+and+depression%2C;+We+will+eventually+have+our+place+in+this+world." alt="Typing SVG" /></a>

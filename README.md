@@ -69,15 +69,10 @@
   </a>
 </p>
 
-> **咱是個廢物啦~ 所以也沒啥好看的 有想到的未來再補充好了~**
 
 ---
 
 <br>
-
-<div align = "center">
- <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Candquarzy&area=true&line=5BCEFA&point=fd81ac&radius=16"></a>
-</div>
 
 <div align = "center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=7000&pause=1500&color=FD81ACAC&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Never+surrender+to+anxiety+and+depression%2C;+We+will+eventually+have+our+place+in+this+world." alt="Typing SVG" /></a>
